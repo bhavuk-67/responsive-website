@@ -1,0 +1,13 @@
+body {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial;
+}
+input , button {
+    padding: 10px;
+    margin: 10px;
+}
+#logo {
+    width: 150px;
+}
